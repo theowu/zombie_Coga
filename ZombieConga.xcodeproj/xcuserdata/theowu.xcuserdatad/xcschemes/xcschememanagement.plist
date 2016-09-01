@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ZombieConga.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>ZombieCongaTV.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AD2642C61D1860800058CDB2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ADA9AB2A1D36530400C2CF49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ADA9AB401D36530400C2CF49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ADA9AB4B1D36530400C2CF49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
